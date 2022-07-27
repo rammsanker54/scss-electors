@@ -1,0 +1,26 @@
+.selectors
+{
+    background-color: rgb(5, 228, 228);
+  font-size: larger;
+}
+.selectors2
+{
+ background-color: rgb(113, 113, 240)
+ 
+
+}
+.combin
+{
+    background-color: rgb(156, 146, 146);
+}
+
+#pseudoselectors
+{
+    background-color: rgb(221, 221, 82);
+}
+
+.cont
+{
+    width: 80%;
+    justify-content: center;
+}
