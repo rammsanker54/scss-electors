@@ -1,1 +1,1 @@
-# scss-electors
+# css-electors
